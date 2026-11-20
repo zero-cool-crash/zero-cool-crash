@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**zero-cool-crash/zero-cool-crash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical tools from Adelaide, South Australia.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- **[The Broker Room](https://thebrokerroom.com.au)** — Australian property-cost calculators. Privacy-first, independently verified SA government charges. React + TypeScript, Cloudflare Pages.
+- **Braglio** — daily competitive brain challenge game.
+- **Iridium Tasks** — task management tool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+TypeScript · React · Node.js · Python · Linux (Mint) · Git
+
+### ⚡ Notes
+- Money is integer cents. Engines fail closed.
+- Verified sources or it doesn't ship.
